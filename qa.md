@@ -52,5 +52,6 @@ Dentist/clinic site, not a visual-result salon/beauty lead. Clinical before/afte
 - Sticky mobile call CTA present.
 - Footer uses consistent SVG icon buttons for phone/maps.
 
-## Gate 9 — final live QA after deploy
-Pending until GitHub Pages publish.
+## Gate 9 — final live QA after deploy: PASS
+- Live URL returned HTTP 200 after GitHub Pages build.
+- Live HTML contains business name, testimonial phrase “Обслужването беше невероятно”, schema, canonical, OG tags, phone links, and map/contact block.
