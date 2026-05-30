@@ -51,3 +51,19 @@ No clean standalone logo asset found. The storefront signage is visible in `nuni
 
 ## Staff roster
 Google reviews mention д-р Хайрулова and д-р Нуни, but no verified public staff portraits or complete official roster were found. No staff image cards are shown.
+
+## 2026-05-30 Facebook hero-image correction
+Dean pointed to the correct Facebook photos page: `https://www.facebook.com/profile.php?id=100090048948584&sk=photos` and flagged the main image as too empty/weak.
+
+Selected:
+- `assets/facebook/nunident-fb-02.jpg` — real dental treatment room/operatory from Nunident Facebook photos. Used once as the main hero/OG/schema image.
+- Previous logo/profile image (`nunident-fb-01.jpg`) was rejected after visual QA because it made the hero look like an empty logo card rather than a clinic photo.
+
+Rejected/moved to research:
+- `nunident-fb-01.jpg` — Facebook logo/profile card; source-backed but too weak for hero/gallery, moved to rejected research.
+- `nunident-fb-03.png` — generic purple “N” graphic; weak for public site imagery.
+- `nunident-fb-04.png` — tiny tracking/icon asset, not a business image.
+
+QA rule applied: no repeated visible image; hero image is not repeated elsewhere.
+
+- 2026-05-30 QA adjustment: removed the older bright operatory image from visible gallery because it read as a near-duplicate of the Facebook hero. Gallery now uses equipment/detail plus exterior only.

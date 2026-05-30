@@ -55,3 +55,10 @@ Dentist/clinic site, not a visual-result salon/beauty lead. Clinical before/afte
 ## Gate 9 — final live QA after deploy: PASS
 - Live URL returned HTTP 200 after GitHub Pages build.
 - Live HTML contains business name, testimonial phrase “Обслужването беше невероятно”, schema, canonical, OG tags, phone links, and map/contact block.
+
+## 2026-05-30 Facebook hero-image correction
+- PASS: Re-opened Nunident Facebook photos page supplied by Dean.
+- PASS: Downloaded and vetted public Facebook images.
+- PASS: Replaced weak main hero/OG/schema image with verified Facebook clinic photo.
+- PASS: Added Facebook logo/profile image only as a secondary visual; rejected generic/tiny assets.
+- PASS: No visible duplicate image srcs after correction.
